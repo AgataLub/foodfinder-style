@@ -241,10 +241,12 @@ p.typography-sample {
 
 strong {
     font-weight: bold;
+    color: var(--color-4);
 }
 
 em {
     font-style: italic;
+    color: var(--color-5);
 }
 
 a {
